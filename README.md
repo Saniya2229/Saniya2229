@@ -11,8 +11,10 @@
 
 - 🌱 I’m currently learning **JavaScript, Tailwind, Node, React, MongoDB, Git**, etc.
 - 💼 All of my projects are available at: [StackBlitz Projects](https://stackblitz.com/@Saniya2229/projects)
-- 💬 Ask me about: **HTML, CSS, Tailwind, JavaScript**
+- - 🌱 I’m currently learning **React.js, GitHub Actions, and Advanced JavaScript**
+- 💬 Ask me about **JavaScript, React, Git, or CSS tricks**
 - 📫 How to reach me: **saniyahakim22@gmail.com**
+- - ⚡ Fun fact: I break things just to fix them better 😉
 
 ---
 
@@ -54,16 +56,12 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📈 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saniya2229&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+![Saniya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saniya2229&show_icons=true&theme=radical)
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Saniya2229&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saniya2229&layout=compact&theme=radical)
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saniya2229" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Saniya2229&theme=radical)](https://git.io/streak-stats)
+
+
