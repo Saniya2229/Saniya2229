@@ -55,7 +55,7 @@ Every project I build is focused on performance, clarity, and user-centered desi
 
 **Web Development / Frontend**
 <br />
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,nodejs,express,git,github,vscode,figma&theme=dark" />
   </a>
@@ -63,7 +63,7 @@ Every project I build is focused on performance, clarity, and user-centered desi
 
 **AI / Data Science**
 <br />
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,anaconda&theme=dark" />
   </a>
@@ -78,23 +78,25 @@ Every project I build is focused on performance, clarity, and user-centered desi
 <h2 align="center">🔥 GitHub Stats & Grind</h2>
 
 <div align="center">
-  <table border="0" width="100%" cellspacing="0" cellpadding="0">
-    <tr>
-      <!-- Column 1: GitHub Stats -->
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Saniya2229&show_icons=true&title_color=ffffff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true&count_private=true" />
-      </td>
-      <!-- Column 2: Streak Stats -->
-      <td width="50%" align="center">
-        <img src="https://streak-stats.demolab.com?user=Saniya2229&theme=dark&hide_border=true&background=151515" />
-      </td>
-    </tr>
-  </table>
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Saniya2229&show_icons=true&title_color=ffffff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true&count_private=true" alt="Saniya2229's GitHub Stats" />
+  </a>
   
-  <br />
+  <br/> <br/>
 
-  <!-- Full Width: Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saniya2229&layout=compact&title_color=ffffff&text_color=9f9f9f&bg_color=151515&hide_border=true" />
+  <!-- Streak Stats Card -->
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <!-- Using the streak-stats.demolab.com domain which is more reliable -->
+    <img src="https://streak-stats.demolab.com?user=Saniya2229&theme=dark&hide_border=true&background=151515" alt="Saniya2229's Streak" />
+  </a>
+
+  <br/> <br/>
+
+  <!-- Top Languages Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saniya2229&layout=compact&title_color=ffffff&text_color=9f9f9f&bg_color=151515&hide_border=true" alt="Top Languages" />
+  </a>
 </div>
 
 <br />
