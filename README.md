@@ -63,7 +63,7 @@ Every project I build is focused on performance, clarity, and user-centered desi
 
 **AI / Data Science**
 <br />
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,anaconda&theme=dark" />
   </a>
@@ -75,7 +75,7 @@ Every project I build is focused on performance, clarity, and user-centered desi
 ### 📊 GitHub Stats & Grind
 
 <!-- GITHUB STATS SECTION -->
-<h2 align="center">🔥 GitHub Stats & Grind</h2>
+
 
 <div align="center">
   <!-- GitHub Stats Card -->
