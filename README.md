@@ -82,11 +82,11 @@ Every project I build is focused on performance, clarity, and user-centered desi
     <tr>
       <!-- Column 1: GitHub Stats -->
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Saniya2229&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true&count_private=true" alt="Saniya2229's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Saniya2229&show_icons=true&title_color=ffffff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true&count_private=true" />
       </td>
       <!-- Column 2: Streak Stats -->
       <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saniya2229&theme=dark&hide_border=true&background=151515" alt="Saniya2229's Streak" />
+        <img src="https://streak-stats.demolab.com?user=Saniya2229&theme=dark&hide_border=true&background=151515" />
       </td>
     </tr>
   </table>
@@ -94,7 +94,7 @@ Every project I build is focused on performance, clarity, and user-centered desi
   <br />
 
   <!-- Full Width: Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saniya2229&layout=compact&title_color=fff&text_color=9f9f9f&bg_color=151515&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saniya2229&layout=compact&title_color=ffffff&text_color=9f9f9f&bg_color=151515&hide_border=true" />
 </div>
 
 <br />
