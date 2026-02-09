@@ -1,67 +1,121 @@
+<!-- Saniya Hakim - GitHub Profile README -->
+<!-- Theme: Deno Roy Inspired / Premium Dark -->
 
-
-<h1 align="center">Hi 👋, I'm Saniya Hakim</h1>
-<h3 align="center">👩‍💻 Aspiring Web Developer | Turning Ideas into Interfaces</h3>
-
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
-
+<!-- Profile Views Badge (Top Left as requested) -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=saniya2229&label=Profile%20views&color=0e75b6&style=flat" alt="saniya2229" />
+  <img src="https://komarev.com/ghpvc/?username=Saniya2229&label=Profile%20Views&color=0e75b6&style=flat" alt="Saniya2229" />
 </p>
 
-- 🌱 I’m currently learning **JavaScript, Tailwind, Node, React, MongoDB, Git**, etc.
-- 💼 All of my projects are available at: [StackBlitz Projects](https://stackblitz.com/@Saniya2229/projects)
-- - 🌱 I’m currently learning **React.js, GitHub Actions, and Advanced JavaScript**
-- 💬 Ask me about **JavaScript, React, Git, or CSS tricks**
-- 📫 How to reach me: **saniyahakim22@gmail.com**
-- - ⚡ Fun fact: I break things just to fix them better 😉
+<!-- Header Section: Banner + Centered Name/Role + 3 Icons -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Saniya2229/Saniya2229/main/banner.png" width="100%" height="350px" style="object-fit: cover; object-position: center;" alt="Banner" />
 
----
+  <br /> <br />
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://github.com/Saniya2229" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:saniyahakim22@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-
----
-
-<h3 align="left">🛠️ Languages and Tools:</h3>
-
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+  <h1 align="center">Saniya Hakim</h1>
+  <h3 align="center">Frontend Developer | AI + Web Developer</h3>
   
+  <!-- 3 Core Logos (HTML, CSS, JS) -->
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="50" alt="Core Tech" />
+    </a>
+  </p>
+
+  <!-- Custom Taglines -->
+  <p align="center">
+    🌐 Secure & Scalable Systems ⚡ | 🤖 AI-Driven Web Experiences 💡 | 🎨 Effortless, Modern Interfaces ✨
+
+  </p>
+
+</div>
+
+<br />
+
+<!-- My Vibe Statement Section -->
+### 🎧 My Vibe Statement
+
+**⚡ + 🤖 + 🎨 = Ultimate Creative Flow**
+
+From crafting responsive and efficient web systems to integrating AI for smarter solutions, I design experiences that are both scalable and intuitive.  
+I believe user interfaces should be simple yet powerful — clean navigation, smooth interaction, and modern aesthetics that truly serve the user.
+
+Using AI tools for UI/UX optimization, I ensure code runs efficiently and websites perform seamlessly with modern technologies like React and JavaScript.  
+Every project I build is focused on performance, clarity, and user-centered design.
+
+<p align="center">
+  <i>“If your heart says yes, we do it. We turn theory into real-time reality.<br>
+  We believe in ourselves — and we build without limits.”</i> 🚀
 </p>
 
----
+<br />
 
-## 📈 GitHub Stats
+<!-- Tech Stack & Arsenal Section -->
+### 🚀 Tech Stack & Arsenal
 
-![Saniya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saniya2229&show_icons=true&theme=radical)
+**Web Development / Frontend**
+<br />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,nodejs,express,git,github,vscode,figma&theme=dark" />
+  </a>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saniya2229&layout=compact&theme=radical)
+**AI / Data Science**
+<br />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,anaconda&theme=dark" />
+  </a>
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Saniya2229&theme=radical)](https://git.io/streak-stats)
+<br />
 
+<!-- GitHub Stats & Grind Section -->
+### 📊 GitHub Stats & Grind
 
+<!-- GITHUB STATS SECTION -->
+<h2 align="center">🔥 GitHub Stats & Grind</h2>
+
+<div align="center">
+  <table border="0" width="100%" cellspacing="0" cellpadding="0">
+    <tr>
+      <!-- Column 1: GitHub Stats -->
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Saniya2229&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true&count_private=true" alt="Saniya2229's GitHub Stats" />
+      </td>
+      <!-- Column 2: Streak Stats -->
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saniya2229&theme=dark&hide_border=true&background=151515" alt="Saniya2229's Streak" />
+      </td>
+    </tr>
+  </table>
+  
+  <br />
+
+  <!-- Full Width: Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saniya2229&layout=compact&title_color=fff&text_color=9f9f9f&bg_color=151515&hide_border=true" alt="Top Languages" />
+</div>
+
+<br />
+
+<!-- Footer / Connect -->
+<div align="center">
+  <h3>Connect with me 🤝</h3>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/saniya-hakim-28274933a">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:saniyahakim22@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </p>
+
+  <br />
+
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer" width="100%" />
+</div>
