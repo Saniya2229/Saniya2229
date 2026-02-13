@@ -1,123 +1,102 @@
-<!-- Saniya Hakim - GitHub Profile README -->
-<!-- Theme: Deno Roy Inspired / Premium Dark -->
+<!-- ===================== BANNER ===================== -->
 
-<!-- Profile Views Badge (Top Left as requested) -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Saniya2229&label=Profile%20Views&color=0e75b6&style=flat" alt="Saniya2229" />
+<p align="center">
+  <img src="
+https://raw.githubusercontent.com/Saniya2229/Saniya2229/main/Lofi style 1.jpeg
+" alt="Banner" width="100%" />
 </p>
 
-<!-- Header Section: Banner + Centered Name/Role + 3 Icons -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Saniya2229/Saniya2229/main/From KlickPin CF Oriental ghibli girl __ reading book.mp4" type="video/mp4 width="100%" height="350px" style="object-fit: cover; object-position: center;" alt="Banner" />
+<h1 align="center">Saniya Hakim</h1>
+<h3 align="center">Frontend Developer | AI + Web Developer</h3>
 
-  <br /> <br />
+<p align="center">
+🌐 Secure & Scalable Systems ⚡ | 🤖 AI-Driven Web Experiences 💡 | 🎨 Effortless, Modern Interfaces ✨
+</p>
 
-  <h1 align="center">Saniya Hakim</h1>
-  <h3 align="center">Frontend Developer | AI + Web Developer</h3>
-  
-  <!-- 3 Core Logos (HTML, CSS, JS) -->
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="50" alt="Core Tech" />
-    </a>
-  </p>
+---
 
-  <!-- Custom Taglines -->
-  <p align="center">
-    🌐 Secure & Scalable Systems ⚡ | 🤖 AI-Driven Web Experiences 💡 | 🎨 Effortless, Modern Interfaces ✨
-
-  </p>
-
-</div>
-
-<br />
-
-<!-- My Vibe Statement Section -->
-### 🎧 My Vibe Statement
-
-**⚡ + 🤖 + 🎨 = Ultimate Creative Flow**
+# 🎧 My Vibe Statement
+⚡ + 🤖 + 🎨 = Ultimate Creative Flow  
 
 From crafting responsive and efficient web systems to integrating AI for smarter solutions, I design experiences that are both scalable and intuitive.  
-I believe user interfaces should be simple yet powerful — clean navigation, smooth interaction, and modern aesthetics that truly serve the user.
+I believe user interfaces should be simple yet powerful — clean navigation, smooth interaction, and modern aesthetics that truly serve the user.  
 
 Using AI tools for UI/UX optimization, I ensure code runs efficiently and websites perform seamlessly with modern technologies like React and JavaScript.  
-Every project I build is focused on performance, clarity, and user-centered design.
+Every project I build is focused on performance, clarity, and user-centered design.  
 
-<p align="center">
-  <i>“If your heart says yes, we do it. We turn theory into real-time reality.<br>
-  We believe in ourselves — and we build without limits.”</i> 🚀
-</p>
+ “If your heart says yes, we do it. We turn theory into real-time reality.  
+ We believe in ourselves — and we build without limits.” 🚀  
 
-<br />
+---
 
-<!-- Tech Stack & Arsenal Section -->
-### 🚀 Tech Stack & Arsenal
+# 👩‍💻 About Me
 
-**Web Development / Frontend**
-<br />
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,nodejs,express,git,github,vscode,figma&theme=dark" />
-  </a>
-</p>
+- 🎓 Pursuing B.E. in Artificial Intelligence & Data Science  
+- 💻 Diploma in Computer Engineering  
+- ⚛️ MERN Stack Developer  
+- 🤖 Passionate about AI + Web Integration  
+- 🎨 Focused on UI/UX + Performance Optimization  
+- 🔥 I build real-world scalable web applications  
 
-**AI / Data Science**
-<br />
+---
+
+# 🚀 Tech Stack & Arsenal
+
+## 🌐 Web Development / Frontend
+
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,anaconda&theme=dark" />
-  </a>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,bootstrap" />
 </p>
 
-<br />
+## ⚙️ Backend & Database
 
-<!-- GitHub Stats & Grind Section -->
-### 📊 GitHub Stats & Grind
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
 
-<!-- GITHUB STATS SECTION -->
+## 🤖 AI / Data Science
 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
+</p>
 
-<div align="center">
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Saniya2229&show_icons=true&title_color=ffffff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true&count_private=true" alt="Saniya2229's GitHub Stats" />
-  </a>
-  
-  <br/> <br/>
+## 🛠 Tools & Platforms
 
-  <!-- Streak Stats Card -->
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <!-- Using the streak-stats.demolab.com domain which is more reliable -->
-    <img src="https://streak-stats.demolab.com?user=Saniya2229&theme=dark&hide_border=true&background=151515" alt="Saniya2229's Streak" />
-  </a>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</p>
 
-  <br/> <br/>
+---
 
-  <!-- Top Languages Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saniya2229&layout=compact&title_color=ffffff&text_color=9f9f9f&bg_color=151515&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
+# 📊 GitHub Stats & Grind
 
-<br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saniya2229&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saniya2229&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-<!-- Footer / Connect -->
-<div align="center">
-  <h3>Connect with me 🤝</h3>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/saniya-hakim-28274933a">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:saniyahakim22@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-  </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saniya2229&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+</p>
 
-  <br />
+---
 
-</div>
+# 🔗 Connect with Me 🤝
 
-<div align="center">
-  <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer" width="100%" />
-</div>
+<p align="left">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+<!-- ===================== FOOTER BANNER ===================== -->
+
+<p align="center">
+  <img src="YOUR_FOOTER_BANNER_URL_HERE" alt="Footer Banner" width="100%" />
+</p>
