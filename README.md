@@ -50,7 +50,7 @@ We believe in ourselves — and we build without limits.” 🚀
 
 </td>
 <td width="40%">
-  <img src="https://raw.githubusercontent.com/Saniya2229/Saniya2229/main/sweet.gif" width="420px"/>
+  <img src="https://raw.githubusercontent.com/Saniya2229/Saniya2229/main/laddu!.gif" width="420px"/>
 </td>
 </tr>
 </table>
