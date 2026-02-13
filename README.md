@@ -8,7 +8,7 @@
 
 <!-- Header Section: Banner + Centered Name/Role + 3 Icons -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Saniya2229/Saniya2229/main/banner.png" width="100%" height="350px" style="object-fit: cover; object-position: center;" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/Saniya2229/Saniya2229/main/From KlickPin CF Oriental ghibli girl __ reading book.mp4" type="video/mp4 width="100%" height="350px" style="object-fit: cover; object-position: center;" alt="Banner" />
 
   <br /> <br />
 
