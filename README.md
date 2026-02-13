@@ -1,9 +1,9 @@
-<!-- ===================== BANNER ===================== -->
+<!-- ===================== TOP BANNER ===================== -->
 
 <p align="center">
-  <img src="
-https://raw.githubusercontent.com/Saniya2229/Saniya2229/main/Lofi style 1.jpeg
-" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Saniya2229/Saniya2229/main/Lofi%20style%201.jpeg" 
+       width="90%" 
+       style="max-height:300px; object-fit:cover;" />
 </p>
 
 <h1 align="center">Saniya Hakim</h1>
@@ -16,6 +16,7 @@ https://raw.githubusercontent.com/Saniya2229/Saniya2229/main/Lofi style 1.jpeg
 ---
 
 # 🎧 My Vibe Statement
+
 ⚡ + 🤖 + 🎨 = Ultimate Creative Flow  
 
 From crafting responsive and efficient web systems to integrating AI for smarter solutions, I design experiences that are both scalable and intuitive.  
@@ -24,12 +25,21 @@ I believe user interfaces should be simple yet powerful — clean navigation, sm
 Using AI tools for UI/UX optimization, I ensure code runs efficiently and websites perform seamlessly with modern technologies like React and JavaScript.  
 Every project I build is focused on performance, clarity, and user-centered design.  
 
- “If your heart says yes, we do it. We turn theory into real-time reality.  
- We believe in ourselves — and we build without limits.” 🚀  
+<p align="center">
+<i>
+“If your heart says yes, we do it.  
+We turn theory into real-time reality.  
+We believe in ourselves — and we build without limits.” 🚀
+</i>
+</p>
 
 ---
 
 # 👩‍💻 About Me
+
+<table>
+<tr>
+<td width="60%">
 
 - 🎓 Pursuing B.E. in Artificial Intelligence & Data Science  
 - 💻 Diploma in Computer Engineering  
@@ -38,31 +48,39 @@ Every project I build is focused on performance, clarity, and user-centered desi
 - 🎨 Focused on UI/UX + Performance Optimization  
 - 🔥 I build real-world scalable web applications  
 
+</td>
+<td width="40%">
+  <img src="https://raw.githubusercontent.com/Saniya2229/Saniya2229/main/sweet.gif" width="420px"/>
+</td>
+</tr>
+</table>
+
 ---
 
 # 🚀 Tech Stack & Arsenal
 
 ## 🌐 Web Development / Frontend
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,bootstrap" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,bootstrap,nextjs" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="48"/>
 </p>
 
 ## ⚙️ Backend & Database
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
 ## 🤖 AI / Data Science
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
 </p>
 
 ## 🛠 Tools & Platforms
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
@@ -83,12 +101,12 @@ Every project I build is focused on performance, clarity, and user-centered desi
 
 # 🔗 Connect with Me 🤝
 
-<p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<p>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:saniyahakim22@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
@@ -98,5 +116,7 @@ Every project I build is focused on performance, clarity, and user-centered desi
 <!-- ===================== FOOTER BANNER ===================== -->
 
 <p align="center">
-  <img src="YOUR_FOOTER_BANNER_URL_HERE" alt="Footer Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Saniya2229/Saniya2229/main/Lofi%20Style.jpeg" 
+       width="90%" 
+       style="max-height:250px; object-fit:cover;" />
 </p>
