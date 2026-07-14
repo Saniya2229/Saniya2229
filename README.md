@@ -41,7 +41,7 @@ We believe in ourselves — and we build without limits.” 🚀
 <tr>
 <td width="60%">
 
-- 🎓 Pursuing B.E. in Artificial Intelligence & Data Science  
+- 🎓 B.E. in Artificial Intelligence & Data Science  
 - 💻 Diploma in Computer Engineering  
 - ⚛️ MERN Stack Developer  
 - 🤖 Passionate about AI + Web Integration  
