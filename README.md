@@ -311,14 +311,16 @@ A full-stack job portal designed to connect candidates and employers through a m
 <h3>✍️ Quillzy</h3>
 
 <p>
-A smart blog editor focused on creating, editing, and managing content through a clean and modern interface.
+A smart AI-powered blog editor with rich text editing, JWT authentication, debounced auto-save, and AI-powered summary and grammar features.
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/API-FF6B35?style=flat-square" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Lexical-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square" />
 </p>
 
 <a href="https://quillzy-blog-editor.onrender.com">
@@ -420,6 +422,35 @@ A modern finance dashboard focused on clean data presentation, responsive design
 
 <td width="50%" align="center">
 
+<img src="https://placehold.co/700x400/161b22/58a6ff?text=StorPly" width="100%" />
+
+<h3>⭐ StorPly</h3>
+
+<p>
+A full-stack store rating platform where users can discover stores, share ratings, and explore community feedback with role-based dashboards for admins and store owners.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+<a href="https://github.com/Saniya2229/StorPly">
+  <img src="https://img.shields.io/badge/💻%20GitHub-Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
 <img src="https://placehold.co/700x400/161b22/d2a8ff?text=More+Projects+Coming+Soon" width="100%" />
 
 <h3>🚀 More Projects</h3>
@@ -440,6 +471,28 @@ More experiments, ideas, and real-world applications are continuously being buil
 
 </tr>
 </table>
+
+------
+
+# 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Saniya2229&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    width="49%"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Saniya2229&theme=tokyonight&hide_border=true"
+    width="49%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saniya2229&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    width="45%"
+  />
+</p>
 
 ------
 # 📊 GitHub Stats & Activity
